@@ -1,0 +1,163 @@
+body {
+ margin: 0;
+ background: #1B244A;
+}
+.container {
+ justify-content: space-around;
+ color: #EEEEEE;
+ font-weight: bold;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 20.9px;
+ 
+}
+#h3-1 {
+  margin: 30px 30px 10px 50px;
+}
+#h3-2{
+  margin: -38px 86px 280px 150px;
+  padding-left: 150px;
+}
+#score-container {
+ background: #080001;
+ width: 155px;
+ height: 120px;
+ margin: -270px 338px 20px 80px;
+ margin-left: 20px;
+ border-radius: 5%;
+}
+#score-container-1 {
+ background: #080001;
+ width: 155px;
+ height: 120px;
+ margin: -142px 80px 140px 338px;
+ margin-left: 280px;
+ border-radius: 5%;
+}
+#home-points {
+  margin-bottom: -4px;
+  font-family: 'Cursed timer Ulil', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 89px;
+  line-height: 127px;
+  text-align: center;
+  color: #F94F6D;
+}
+#guest-points {
+  position: absolute;
+  width: 117px;
+  height: 120px;
+  top: -10px;
+  left: 300px;
+ 
+  text-align: center;
+  font-family: 'Cursed timer Ulil', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 90px;
+  line-height: 127px;
+  text-align: center;
+  color: #F94F6D;
+}
+.btns-1 {
+  
+ margin-top: -115px;
+ font-family: 'Cursed timer Ulil', Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+ font-weight: 400;
+ font-size: 18px;
+ line-height: 28px;
+ display: flex;
+ justify-content: space-around;
+ /* or 155% */
+ text-align: center;
+ 
+}
+ 
+#btn-1 {
+ margin-left: -175px;
+ font-style: 'Cursed timer Ulil', Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+ color: #9AABD8;
+ background-color: #1B244A;
+ width: 35px;
+ height: 35px;
+ border: 2px solid #9AABD8;
+ border-radius: 5px;
+ padding-left: 4px;
+}
+ 
+#btn-2 {
+ margin-left: -365px;
+ color: #9AABD8;
+ background-color: #1B244A;
+ width: 35px;
+ height: 35px;
+ border: 2px solid #9AABD8;
+ border-radius: 5px;
+ padding-left: 4px;
+}
+ 
+#btn-3 {
+ margin-left: -365px;
+ margin-right: 100px;
+ color: #9AABD8;
+ background-color: #1B244A;
+ width: 35px;
+ height: 35px;
+ border: 2px solid #9AABD8;
+ border-radius: 5px;
+ padding-left: 4px;
+}
+ 
+.btns-2 {
+  
+ margin-top: -35px;
+ font-family: 'Cursed timer Ulil', Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+ font-weight: 400;
+ font-size: 18px;
+ line-height: 28px;
+ display: flex;
+ justify-content: space-around;
+ /* or 155% */
+ text-align: center;
+}
+ 
+#btns-1 {
+ margin-left: 230px;
+ font-style: 'Cursed timer Ulil', Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+ color: #9AABD8;
+ background-color: #1B244A;
+ width: 35px;
+ height: 35px;
+ border: 2px solid #9AABD8;
+ border-radius: 5px;
+ padding-left: 4px;
+}
+ 
+#btns-2 {
+ margin-left: -65px;
+ font-style: 'Cursed timer Ulil', Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+ color: #9AABD8;
+ background-color: #1B244A;
+ width: 35px;
+ height: 35px;
+ border: 2px solid #9AABD8;
+ border-radius: 5px;
+ padding-left: 4px;
+}
+#btns-3 {
+ margin-left: -60px;
+ font-style: 'Cursed timer Ulil', Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+ color: #9AABD8;
+ background-color: #1B244A;
+ width: 35px;
+ height: 35px;
+ border: 2px solid #9AABD8;
+ border-radius: 5px;
+ padding-left: 4px;
+}
+@font-face {
+   font-family: 'Cursed Timer ULiL';
+   font-style: normal;
+   font-weight: 400;
+   src: local('Cursed Timer ULiL'), url('https://fonts.cdnfonts.com/s/40642/CursedTimerUlil-Aznm.woff') format('woff');
+}
